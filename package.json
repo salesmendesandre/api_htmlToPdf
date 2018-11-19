@@ -1,0 +1,26 @@
+{
+  "name": "api_htmltopdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salesmendesandre/api_htmlToPdf.git"
+  },
+  "author": "André Sales Mendes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salesmendesandre/api_htmlToPdf/issues"
+  },
+  "homepage": "https://github.com/salesmendesandre/api_htmlToPdf#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "fs-extra": "^7.0.1",
+    "md5": "^2.2.1",
+    "wkhtmltopdf": "^0.3.4"
+  }
+}
