@@ -11,8 +11,8 @@ sudo ln -s /usr/local/bin/wkhtmltoimage /usr/bin
 
 ## Clone and Install Dependencies
 ```
-git clone https://github.com/salesmendesandre/api_htmlToPdf.git
-cd api_htmlToPdf
+git clone https://github.com/salesmendesandre/htmlToPdf_api.git
+cd htmlToPdf_api
 npm install
 ```
 ## Run the API
