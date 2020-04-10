@@ -1,4 +1,4 @@
-# api_htmlToPdf
+# htmlToPdf_api
 
 ## Install wkhtmltopdf
 ```
